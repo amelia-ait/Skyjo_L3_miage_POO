@@ -23,7 +23,7 @@ C’est ensuite au joueur suivant (qui a les mêmes possibilités).
 Un joueur peut réaliser une “colonne”, c'est-à- dire avoir trois cartes identiques dans la même colonne. La colonne est ainsi supprimée et est mise en haut de la défausse.
 
 Une manche se finit quand un joueur a tout son jeu face visible. Si un joueur finit et qu’il n’a pas strictement le plus petit nombre de points, son nombre de points est alors doublé. 
-Quand un joueur retourne ou échange sa dernière carte, tous les autres joueurs ont un dernier tour de jeu. 
+Quand un joueur a révélé sa dernière carte, tous les autres joueurs ont un dernier tour de jeu. 
 
 Le nombre de points est égale à la somme des nombres affichés sur les cartes.
 
