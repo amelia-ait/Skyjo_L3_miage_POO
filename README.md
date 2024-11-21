@@ -1,13 +1,13 @@
 # Skyjo_L3_miage_POO
 Skyjo
-Règles :
+#Règles :
 Le jeu se joue à deux joueurs ou plus.
 
-Mise en place :
+#Mise en place :
 Tous les joueurs ont une grille de 4 par 3 cartes(12 cartes), où toutes les cartes sont face cachée.
 Une carte est d’office posée dans la défausse face visible.
 
-Déroulé de la partie :
+#Déroulé de la partie :
 Les joueurs commencent par retourner 2 cartes de leur choix dans leur jeu et celui dont la somme (des 2 cartes) est la plus grande commence. 
 Le premier joueur a le choix entre prendre la dernière carte de la défausse(face visible) ou piocher une carte de la pioche face cachée. 
 
@@ -19,7 +19,7 @@ remplacer une carte de son jeu par celle pioché, dans ce cas la carte remplacer
 
 C’est ensuite au joueur suivant (qui a les mêmes possibilités).
 
-Règles Spéciales : 
+#Règles Spéciales : 
 Un joueur peut réaliser une “colonne”, c'est-à- dire avoir trois cartes identiques dans la même colonne. La colonne est ainsi supprimée et est mise en haut de la défausse.
 
 Une manche se finit quand un joueur a tout son jeu face visible. Si un joueur finit et qu’il n’a pas strictement le plus petit nombre de points, son nombre de points est alors doublé. 
